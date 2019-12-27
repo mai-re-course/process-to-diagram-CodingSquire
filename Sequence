@@ -6,7 +6,12 @@ alt If there is no match in the cache or in the hosts file
 OS -> DNS_server: ARP request
 DNS_server --> OS: ARP reply с IP 
 else If there is a match in the cache or in hosts
-OS -> OS: IP
+
+OS -> OS: Return IP
+activate OS
+deactivate OS
+
+
 end
 else If there is a match in HSTS
 Browser -> OS: IP 
