@@ -1,9 +1,19 @@
-# Отчеты по домашним работам
+# [Домашняя работа №2]
 
 ## Пашков Дмитрий Сергеевич студент 3О-117М-19М
 
-- [Домашняя работа №2](https://github.com/CodingSquire/Study_RE/tree/master/HW%231)
-  - [UseCase Добавления в черный список](https://github.com/CodingSquire/Study_RE/blob/master/HW%231/UseCaseAddingToBlacklist.md)
-  - [UseCase Блокировки звонков](https://github.com/CodingSquire/Study_RE/blob/master/HW%231/UseCaseBarring.md)
-  - [Sequence diagram Добавления в черный список](https://github.com/CodingSquire/Study_RE/blob/master/HW%232/SequinceDiagrammAddingToBlacklist.puml)
-  - [Sequence diagram Блокировки звонков](https://github.com/CodingSquire/Study_RE/blob/master/HW%232/SequinceDiagrammBarring.puml)
+### Диаграмма  Activiti
+
+![Activity.png](https://raw.githubusercontent.com/mai-re-course/process-to-diagram-CodingSquire/master/Activity.png)
+
+---
+
+### Диаграмма Sequence
+
+![Sequence.png](https://raw.githubusercontent.com/mai-re-course/process-to-diagram-CodingSquire/master/Sequence.png)
+
+---
+
+### Диаграмма Component
+
+![component.png](https://raw.githubusercontent.com/mai-re-course/process-to-diagram-CodingSquire/master/ 	component.png)
