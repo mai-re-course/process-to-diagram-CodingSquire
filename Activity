@@ -1,0 +1,22 @@
+@startuml
+start
+
+:URL entry;
+if (Is there an IP on the HSTS list?) then (Yes)
+ elseif (Is there an IP in the hosts file or in the DNS cache?) then (No)
+:Sending an ARP Request;
+:Processing ARP request and extracting IP from it;
+else(Yes)
+endif
+:Opening socket;
+:TCP Handshake;
+:Request to HTTP server;
+:Response from HTTP server;
+if (Switched on keep-alive) then (No)
+:Terminating a TCP Connection;
+else (Yes)
+endif
+:Parsing HTML pages;
+:Page Rendering;
+stop
+@enduml
