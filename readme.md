@@ -16,4 +16,4 @@
 
 ### Диаграмма Component
 
-![component.png](https://raw.githubusercontent.com/mai-re-course/process-to-diagram-CodingSquire/master/ 	component.png)
+![component.png](https://raw.githubusercontent.com/mai-re-course/process-to-diagram-CodingSquire/master/component.png)
